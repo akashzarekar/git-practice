@@ -1,1 +1,2 @@
-b file in modified state
+b file in modified state.
+merging into master.
