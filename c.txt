@@ -1,1 +1,2 @@
-c file
+c file modified today.
+How are you?
